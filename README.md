@@ -1,2 +1,4 @@
 # hello
-github test
+
+fundmental function test ok!
+
